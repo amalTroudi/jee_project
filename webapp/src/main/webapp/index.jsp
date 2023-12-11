@@ -2,5 +2,3 @@
 <h2>c'est la deuxieme seance de Jenkins</h2>
 <h1>bonjour mr mlayah</h1>
 
-abc
-efg
